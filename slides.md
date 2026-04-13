@@ -582,22 +582,44 @@ Pre-RA3 constraints, RA3 decoupling, and the path to Data Sharing
 
 
 ---
+layout: center
+class: text-center
+---
 
 # Final Thought
 
-<div style="display:flex; justify-content:space-between; align-items:center; gap:32px;">
-<div style="flex:1; text-align:left;">
+## **Stop fighting over one cluster.**
 
-**Stop fighting over one cluster.**
+---
+
+# Links
+<div style="display:flex; justify-content:space-between; align-items:stretch; gap:32px;">
+<div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
+
+**Jirka Hubacek**
 
 <br>
 
-[hubacek.xyz](https://hubacek.xyz)
+[https://hubacek.xyz](https://hubacek.xyz)
 
-</div>
-<div style="flex:0 0 220px; text-align:center;">
+<br>
+<br>
 
 <img src="/hubacek-qr.svg" alt="QR code for hubacek.xyz" width="220" />
+
+</div>
+<div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
+
+**GitHub Repository**
+
+<br>
+
+[ug-berlin-redshift-data-sharing](https://github.com/hubacekjirka/ug-berlin-redshift-data-sharing)
+
+<br>
+<br>
+
+<img src="/github-repo-qr.svg" alt="QR code for GitHub repository" width="220" />
 
 </div>
 </div>
